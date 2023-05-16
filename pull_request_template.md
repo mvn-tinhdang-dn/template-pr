@@ -29,9 +29,7 @@ _* List all impact range if affect to other function_
 ### 4. Test List  (REQUIRED)
 - [ ] Check all source code pass CI 
 - [ ] Check all source code pass UT 
-- [ ] List all test cases you have
-- Case 1: 
-- Case 2: 
+- [ ] Check all list common test cases you have : Link sheet check list
 - [ ]  Self-review of my code
 - [ ]  Self-test of my code
 
